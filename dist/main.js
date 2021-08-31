@@ -1,1 +1,1 @@
-console.log("This basic setup works smoothly"),console.log("Okay, webpack running smoothly!!");
+(()=>{"use strict";document.querySelector("#content").appendChild(function(){const t=document.createElement("div");return t.classList.add("navBar"),t.textContent="Restaurant Page",t}())})();

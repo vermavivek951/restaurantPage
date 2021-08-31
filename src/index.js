@@ -1,2 +1,3 @@
-console.log("This basic setup works smoothly");
-console.log("Okay, webpack running smoothly!!");
+import { page_load } from "./page_load";
+
+page_load();
