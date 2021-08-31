@@ -1,3 +1,5 @@
+import './style.css';
+
 function createElement_NavBar() {
     const navBar = document.createElement('div');
     navBar.classList.add('navBar');
